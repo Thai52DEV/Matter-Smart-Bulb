@@ -116,7 +116,7 @@ I(1670590) OPENTHREAD:[N] Mle-----------: Role detached -> child</pre>
 - Dùng cáp Ethernet (bắt buộc, không dùng wifi), tại **Network adapter**, chọn **Bridged: Connected directly to the physical network**.
 - Close > Finish.
 
-  <img src="https://github.com/user-attachments/assets/27b62e0c-7aa7-45d3-a66b-ff81b3844c3f" alt="image" height="350"/>
+  <img src="https://drive.google.com/file/d/1DEpi6VZOBgf6smI4JiaYOwoGQ5LCu-7A/view?usp=drive_link" alt="image" height="350"/>
   <img src="https://github.com/user-attachments/assets/986fa573-8b77-49f2-9861-d8a3643bac87" alt="image" height="350"/>
   
 ##
