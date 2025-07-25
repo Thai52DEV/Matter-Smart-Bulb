@@ -1,4 +1,6 @@
-## III. Chi tiết
+## I. Mô tả
+Đèn thông minh sử dụng chuẩn Matter over Thread, tích hợp với Home Assistant thông qua ESP32 Thread Border Router. Thiết bị hoạt động như một Thread End Device, hỗ trợ điều khiển ánh sáng và phản hồi trạng thái theo thời gian thực.
+## II. Chi tiết
 ### 1. Thread Border Router
 #### 1.1. Một số lưu ý
 - Phần cứng sử dụng là ESP Thread Border Router Board (**ESP TBR**) (gồm host SoC ESP32-S3 và RCP ESP32-H2)
