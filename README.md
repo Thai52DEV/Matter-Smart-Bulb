@@ -2,7 +2,7 @@
 ### 1. Thread Border Router
 #### 1.1. Một số lưu ý
 - Phần cứng sử dụng là ESP Thread Border Router Board (**ESP TBR**) (gồm host SoC ESP32-S3 và RCP ESP32-H2)
-   <img src="https://github.com/user-attachments/assets/c1d18d2b-a13a-4847-af98-72c84825f4bb" alt="image" width="400"/>
+   <img src="https://github.com/user-attachments/assets/e781b65e-b5c2-4371-bc9a-cd72a6b56dfc" alt="image" width="400"/>
 - Phiên bản ESP-IDF được khuyên dùng là v5.2.4
 
    ```git clone -b v5.2.4 --recursive https://github.com/espressif/esp-idf.git```
@@ -49,7 +49,7 @@ I(1670590) OPENTHREAD:[N] Mle-----------: Role detached -> child</pre>
 - TED được phân quyền ```Role detached ->``` làm child hoặc router là thành công
 ##
 ##### 1.3.2. Linux Host - ESP TBR - TED
-   <img src="https://github.com/user-attachments/assets/c7209ef2-5d66-47af-9bc4-205ee1060d26" alt="image" width="600"/>
+   <img src="https://github.com/user-attachments/assets/145c90dd-eceb-4c85-b9f6-5a2d29713d15" alt="image" width="600"/>
 
 **Lưu ý:** Tuỳ thuộc vào Linux Host mà card wifi / ethernet sẽ có tên khác nhau. Trong ví dụ này là wpl5s0.
 - Xác thực kết nối IPv6
@@ -106,10 +106,10 @@ I(1670590) OPENTHREAD:[N] Mle-----------: Role detached -> child</pre>
 - Đặt tên máy chủ, chẳng hạn ```home-assistant```, and define an easy to reach storage location, such as ```C:\home-assistant```.
 - Maximum disk size (GB): 32GB, Store virtual disk as a single file.
 
-  <img src="https://github.com/user-attachments/assets/af1960da-012d-40a2-8ad2-a373a4bee732" alt="image" width="200"/>
-  <img src="https://github.com/user-attachments/assets/938fef9c-46b4-4cef-a0cb-6efa92870099" alt="image" width="200"/>
-  <img src="https://github.com/user-attachments/assets/d716d21a-3bda-4760-9049-7cfaea9526c1" alt="image" width="200"/>
-  <img src="https://github.com/user-attachments/assets/05ee69e0-d3fd-4028-bdec-695582f28bb9" alt="image" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6090ccf6-a6e1-4260-8bcb-232af007a2bf" alt="image" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ce4eb669-822c-4b6e-86e5-82361d2e40c1" alt="image" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4581634b-903d-4946-8873-51617745453c" alt="image" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e9749e6d-a159-4802-82c4-b8c5ea2de02b" alt="image" width="200"/>
 
 - Customize Hardware...
 - 2 GB RAM,  2vCPU (minimum)
