@@ -136,7 +136,7 @@ I(1670590) OPENTHREAD:[N] Mle-----------: Role detached -> child</pre>
 
 - Chọn vị trí > Next > Finish.
 
-<img src="./assets/2_3(5).png" alt="image" height="300"/><img src="./assets/2_3(6).png" alt="image" height="300"/><img src="./assets/2_3(7).png" alt="image" height="300"/>
+<img src="./assets/2_3(5).png" alt="image" height="300"/> <img src="./assets/2_3(6).png" alt="image" height="300"/> <img src="./assets/2_3(7).png" alt="image" height="300"/>
 
 ##
 #### 2.4. Cấu hình Home Assistant
